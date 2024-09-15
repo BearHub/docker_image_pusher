@@ -3,4 +3,5 @@
 #busybox
 #nginx
 # kubesphere/ks-installer:v3.4.1
-kubernetesui/dashboard:v2.7.0
+# kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
