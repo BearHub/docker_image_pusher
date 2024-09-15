@@ -1,4 +1,5 @@
 # docker.io/flannel/flannel:v0.22.1
-docker.io/flannel/flannel-cni-plugin:v1.2.0
-busybox
-nginx
+#docker.io/flannel/flannel-cni-plugin:v1.2.0
+#busybox
+#nginx
+kubesphere/ks-installer:v3.4.1
