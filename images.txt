@@ -2,4 +2,5 @@
 #docker.io/flannel/flannel-cni-plugin:v1.2.0
 #busybox
 #nginx
-kubesphere/ks-installer:v3.4.1
+# kubesphere/ks-installer:v3.4.1
+kubernetesui/dashboard:v2.7.0
