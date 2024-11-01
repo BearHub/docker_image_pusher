@@ -1,6 +1,10 @@
-docker.io/flannel/flannel:v0.22.1
-docker.io/flannel/flannel-cni-plugin:v1.2.0
-busybox
-nginx
-kubernetesui/metrics-scraper:v1.0.8
-kubernetesui/dashboard:v2.7.0
+#docker.io/flannel/flannel:v0.22.1
+#docker.io/flannel/flannel-cni-plugin:v1.2.0
+#busybox
+#nginx
+#kubernetesui/metrics-scraper:v1.0.8
+#kubernetesui/dashboard:v2.7.0
+eipwork/kuboard-agent
+questdb/questdb:6.0.5
+eipwork/etcd-host:3.4.16-2
+eipwork/kuboard:v3
