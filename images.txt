@@ -17,6 +17,7 @@
 #openebs/linux-utils:3.5.0
 # redis
 # mysql
-prom/node-exporter:v0.16.0
-prom/prometheus:latest
-grafana/grafana:latest
+#prom/node-exporter:v0.16.0
+#prom/prometheus:latest
+#grafana/grafana:latest
+rancher/rancher-agent:v2.5.7
