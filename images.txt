@@ -20,4 +20,5 @@
 #prom/node-exporter:v0.16.0
 #prom/prometheus:latest
 #grafana/grafana:latest
-rancher/rancher-agent:v2.5.7
+#rancher/rancher-agent:v2.5.7
+1panel/kubepi
