@@ -22,4 +22,6 @@
 #grafana/grafana:latest
 #rancher/rancher-agent:v2.5.7
 #1panel/kubepi
-kubeoperator/metrics-server:v0.5.0
+#kubeoperator/metrics-server:v0.5.0
+java
+node
