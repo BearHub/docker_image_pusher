@@ -23,5 +23,5 @@
 #rancher/rancher-agent:v2.5.7
 #1panel/kubepi
 #kubeoperator/metrics-server:v0.5.0
-java
-node
+openjdk:8-jdk-slim
+node:12.16.1-alpine
