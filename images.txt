@@ -30,4 +30,4 @@
 #nginx:1.18.0
 #registry.fit2cloud.com/halo/halo:2.20
 
-dbeaver/cloudbeaver:25.3.1
+dbeaver/cloudbeaver
