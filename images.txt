@@ -30,5 +30,6 @@
 #nginx:1.18.0
 #registry.fit2cloud.com/halo/halo:2.20
 #dbeaver/cloudbeaver
+#phpmyadmin
 
-phpmyadmin
+omnidbteam/omnidb:latest
