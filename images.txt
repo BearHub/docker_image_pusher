@@ -28,8 +28,9 @@
 # mysql:5.7
 # php:7.4-fpm
 #nginx:1.18.0
-#registry.fit2cloud.com/halo/halo:2.20
+#registry.fit2cloud.com/halo/halo:2.20sharksking/sqlynx:x.y.z
 #dbeaver/cloudbeaver
 #phpmyadmin
+#omnidbteam/omnidb:latest
 
-omnidbteam/omnidb:latest
+sharksking/sqlynx:3.4.0
