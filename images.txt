@@ -34,5 +34,5 @@
 #omnidbteam/omnidb:latest
 #sharksking/sqlynx:3.4.0
 #alpine:3.20.1
-bytebase
+bytebase/bytebase:latest
 
