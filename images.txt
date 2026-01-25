@@ -35,5 +35,13 @@
 #sharksking/sqlynx:3.4.0
 #alpine:3.20.1
 #bytebase/bytebase:latest
-phpmyadmin/phpmyadmin:latest
+#phpmyadmin/phpmyadmin:latest
+
+jumpserver/lion:v4.10.15-ce
+jumpserver/koko:v4.10.15-ce
+jumpserver/web:v4.10.15-ce
+redis:7.4.6-bookworm
+postgres:16.10-bookworm
+jumpserver/chen:v4.10.15-ce
+jumpserver/core:v4.10.15-ce
 
