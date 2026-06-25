@@ -17,10 +17,10 @@
 #openebs/linux-utils:3.5.0
 # redis
 # mysql
-prom/alertmanager
-prom/node-exporter:latest
-prom/prometheus:latest
-grafana/grafana:latest
+# prom/alertmanager
+# prom/node-exporter:latest
+# prom/prometheus:latest
+# grafana/grafana:latest
 #rancher/rancher-agent:v2.5.7
 #1panel/kubepi
 #kubeoperator/metrics-server:v0.5.0
@@ -37,6 +37,8 @@ grafana/grafana:latest
 #alpine:3.20.1
 #bytebase/bytebase:latest
 #phpmyadmin/phpmyadmin:latest
+
+wjie520/vllm_kunlun:uv_base
 
 
 
