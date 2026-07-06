@@ -37,8 +37,10 @@
 #alpine:3.20.1
 #bytebase/bytebase:latest
 #phpmyadmin/phpmyadmin:latest
+#wjie520/vllm_kunlun:uv_base
 
-wjie520/vllm_kunlun:uv_base
-
+nginx:alpine
+node:20-alpine
+python:3.11-slim
 
 
