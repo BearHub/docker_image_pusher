@@ -39,8 +39,6 @@
 #phpmyadmin/phpmyadmin:latest
 #wjie520/vllm_kunlun:uv_base
 
-nginx:alpine
-node:20-alpine
-python:3.11-slim
-
+python:3.12-slim
+node:20-slim
 
